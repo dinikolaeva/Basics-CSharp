@@ -1,0 +1,13 @@
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.exe
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.deps.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.dll
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfo.cs
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.dll
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.genruntimeconfig.cache

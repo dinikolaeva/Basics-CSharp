@@ -1,0 +1,13 @@
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.exe
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.deps.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.runtimeconfig.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.dll
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.pdb
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.csprojAssemblyReference.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.AssemblyInfo.cs
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.dll
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.pdb
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.genruntimeconfig.cache

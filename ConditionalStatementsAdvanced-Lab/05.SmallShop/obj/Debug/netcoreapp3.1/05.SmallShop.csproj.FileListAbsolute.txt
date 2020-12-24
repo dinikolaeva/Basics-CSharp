@@ -1,0 +1,13 @@
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.exe
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.deps.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.dev.json
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.dll
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.pdb
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfoInputs.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfo.cs
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.csproj.CoreCompileInputs.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.dll
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.pdb
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.genruntimeconfig.cache
+D:\ProjectsVisualBasics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.csprojAssemblyReference.cache
