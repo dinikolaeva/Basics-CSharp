@@ -2,3 +2,14 @@
 /Conditional Statements-Lab/.vs/ConditionalStatements-Lab/DesignTimeBuild/*.v2
 *.suo
 *.json
+*.v2
+/ConditionalStatements-Exe/*.sln
+*.dll
+*.exe
+*.pdb
+*.props
+*.targets
+*.txt
+*.sln
+.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+netcoreapp3.1
